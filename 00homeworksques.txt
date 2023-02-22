@@ -1,0 +1,31 @@
+1) Sum of the all elemnts in an array  --done
+2) Power of 2 question using set bit approach  --done
+3) 1207 problem on leetcode unique number of occurrence
+4) 442 problem find all duplicates
+5) solve pattern questions using while loop and for loop
+6) code studio Sort 0 1 2 question  --done
+7) agressive cows 
+8) eko spoj
+9) prata spoj
+10)  beatuful triplets hackerearth
+11) Sum of two arrays in code studio 
+12)   Reverse Words in a String II leet code 186
+13) 567 leetcode permutation in a string problem lecture22a
+14) 48 question leetcode question rotate image
+15) segmented sieve
+16) pigeonhole principle
+17) catalan number
+18) inclusion exclusion principle
+19) pointers reading and solving questions on code studio
+20) read about void pointer
+21) read address typecasting
+22) dynamic and static memory allocation (2d arrys also) in codestudio
+23) inversion count and time complexity of merge sort
+24) read about quick sort
+25) subsets and subsequences problem using bits approach
+26) rat in a maze question on geek for geeks
+27) obtain time complexity of remainning problems like quick sort and etc......and complexity anlysis in codestudio
+28) What is padding and greedy alignment and why the class size is showing higher than the sum of sizes of the data
+29) learn about const keyword ,const function and its use in object and function creation and initialization list   
+30) Reverse a doubly linked list
+31)detect loop and remove loop another approaches

@@ -1,0 +1,22 @@
+{
+    "git.enabled": false,
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.position": "panel",
+    "vscode-pets.theme": "forest",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "sstream": "cpp"
+    }
+}
